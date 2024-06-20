@@ -1,5 +1,4 @@
 publuc {
-    static{
-        
+           main file location  
     }
 }
